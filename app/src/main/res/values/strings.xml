@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TextsApp</string>
+    <string name="hard_coded_string_name"> coolHardCodedStringValue </string>
+    <string name="click_button">Submit Name</string>
+    <string name="click_button2">Cycle Message</string>
+    <string name="color_hint" />
+    <string name="enter_name">Enter name</string>
+    <string-array name="rainbow_array">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+</resources>
